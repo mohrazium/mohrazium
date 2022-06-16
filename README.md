@@ -23,8 +23,8 @@ I'm <strong>Junior Backend Developer (JavaEE,Spring Boot)
 
 <div>
   <a href="https://github.com/mohrazium">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohrazium&count_private=true&theme=blue&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohrazium&layout=compact&langs_count=7&theme=blue"/>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=mohrazium&count_private=true&theme=blue&show_icons=true"/>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohrazium&layout=compact&langs_count=7&theme=blue"/>
 </div>
 </br>
 <p align="left">
