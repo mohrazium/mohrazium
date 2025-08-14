@@ -3,9 +3,6 @@
 I'm <strong>Junior Backend Developer (JavaEE,Spring Boot)
 </strong></br> But some times do the <strong>Frontend and Mobile development</strong> (Flutter).😄 </br>
 </p>
-<p align="center">
-<img src="https://github.com/mohrazium/mohrazium/blob/main/web-development.svg" min-width="400px" max-width="500px" width="440px" align="center" alt="Development">
-</p>
 <div>
   <a href="https://github.com/mohrazium">
   <img height="180em" width="500em" align="center" src="https://github-readme-stats.vercel.app/api?username=mohrazium&count_private=true&theme=blue&show_icons=true"/>
@@ -22,7 +19,7 @@ I'm <strong>Junior Backend Developer (JavaEE,Spring Boot)
 
 Emails:
 
-- mhrz.dev@gmail.com
+- mohrazium@gmail.com
 <!-- - mhrz.dev@yahoo.com
 - mhrz-dev@outlook.com
  -->
